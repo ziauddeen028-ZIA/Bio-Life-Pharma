@@ -183,7 +183,7 @@ export default function Home() {
               <span>Contact Us Now</span>
             </Link>
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/918925357013"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-slate-900 px-10 py-4 rounded-full font-bold text-lg hover:bg-slate-100 transition-all flex items-center space-x-2"
