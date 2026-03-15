@@ -154,7 +154,7 @@ export const PRODUCTS = [
       "Reduces symptoms associated with PCOS and PCOD",
       "Improves energy levels and overall female wellness"
     ],
-    composition: "Ashoka (Saraca asoca) 200mg, Lodhra (Symplocos racemosa) 150mg, Shatavari (Asparagus racemosus) 100mg, Aloe Vera 50mg.",
+    composition: "Myo-inositol , L-methyl folate , Vitamin D3 , Mecobalmin , L-Arginine.",
     indications: "Irregular Menstrual Cycle, Hormonal Imbalance, PCOS, General weakness in women.",
     dosage: "1 Tablet twice a day or as directed by the Physician.",
     safety: "Consult a gynecologist before use if pregnant or nursing. Store in a cool, dry place away from direct sunlight.",
