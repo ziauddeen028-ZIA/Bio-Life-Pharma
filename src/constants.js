@@ -32,7 +32,7 @@ export const PRODUCTS = [
     name: "Relief Max",
     type: "Tablets",
     tagline: "Fast Relief for All Pain",
-    description: "Relief Max is a powerful natural analgesic and anti-inflammatory tablet. It provides rapid relief from various types of musculoskeletal pain without the side effects commonly associated with synthetic painkillers.",
+    description: "Relief Max is a powerful natural analgesic and anti-inflammatory tablet. It provides rapid relief from various types of musculoskeletal pain without the side effects.",
     benefits: [
       "Provides rapid relief from acute and chronic body pain",
       "Potent anti-inflammatory action reduces swelling and redness",
@@ -154,8 +154,8 @@ export const PRODUCTS = [
       "Reduces symptoms associated with PCOS and PCOD",
       "Improves energy levels and overall female wellness"
     ],
-    composition: "Myo-inositol , L-methyl folate , Vitamin D3 , Mecobalmin , L-Arginine.",
-    indications: "Irregular Menstrual Cycle, Hormonal Imbalance, PCOS, General weakness in women.",
+    composition: "Myo-inositol , L-methyl folate , Vitamin D3 , Cyanocobalamin , L-Arginine.",
+    indications: "Irregular Menstrual Cycle, Hormonal Imbalance, female infertility , PCOS, General weakness in women.",
     dosage: "1 Tablet twice a day or as directed by the Physician.",
     safety: "Consult a gynecologist before use if pregnant or nursing. Store in a cool, dry place away from direct sunlight.",
     image: ovaseeImg
