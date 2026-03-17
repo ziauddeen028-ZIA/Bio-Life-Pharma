@@ -159,6 +159,25 @@ export const PRODUCTS = [
     dosage: "1 Tablet twice a day or as directed by the Physician.",
     safety: "Consult a gynecologist before use if pregnant or nursing. Store in a cool, dry place away from direct sunlight.",
     image: ovaseeImg
+  },
+  {
+    id: "ovasee",
+    name: "Ovasee",
+    type: "Tablets",
+    tagline: "Women's Care & Hormonal Balance",
+    description: "Ovasee is a specialized formulation designed to support women's reproductive health. It helps in maintaining hormonal balance and supports overall well-being during various phases of a woman's life.",
+    benefits: [
+      "Supports natural hormonal balance in women",
+      "Helps regulate the menstrual cycle effectively",
+      "Enhances reproductive health and vitality",
+      "Reduces symptoms associated with PCOS and PCOD",
+      "Improves energy levels and overall female wellness"
+    ],
+    composition: "Myo-inositol , L-methyl folate , Vitamin D3 , Cyanocobalamin , L-Arginine.",
+    indications: "Irregular Menstrual Cycle, Hormonal Imbalance, female infertility , PCOS, General weakness in women.",
+    dosage: "1 Tablet twice a day or as directed by the Physician.",
+    safety: "Consult a gynecologist before use if pregnant or nursing. Store in a cool, dry place away from direct sunlight.",
+    image: ovaseeImg
   }
 ];
 
